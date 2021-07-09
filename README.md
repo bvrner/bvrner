@@ -1,7 +1,7 @@
 ## About me:
 
 Just yet another person that likes computer Science, math and coding, I'm currently pursuing a bachelor's degree in Mathematics at the University of Brasilia (UnB). </br>
-Most of what I write I do out of curiosity or interest about the implementation of something and wether or not I would be able to achieve it.
+Most of what I write I do out of curiosity or interest about the implementation of something and whether or not I would be able to achieve it.
 
 The languages I feel the most confortable with are Rust, C++, Haskell, Clojure and Python but I also have some familiarity with Elixir, Scala, Kotlin and Java.
 
