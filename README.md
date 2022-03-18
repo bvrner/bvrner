@@ -18,4 +18,5 @@ The languages I feel the most confortable with are Rust, C++, Haskell, Clojure a
 
 ## Stats just for fun:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bvrner)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=your-github-username)
+
+![](https://komarev.com/ghpvc/?username=bvrner)
