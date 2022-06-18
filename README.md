@@ -1,20 +1,39 @@
-## About me:
+## About Me :
 
-Just yet another person that likes computer science, math and coding, I'm currently pursuing a bachelor's degree in Mathematics at the University of Brasilia (UnB). </br>
-Most of what I write I do out of curiosity or interest about the implementation of something and whether or not I would be able to achieve it.
+Mathematics undergraduate student at UnB (Universidade de Brasília) that enjoys coding sometimes. Always trying to learn new stuff, most of what I write I do out of curiosity or interest about how something could be implemented and whether or not I would be able to achieve it. 
 
-The languages I feel the most confortable with are Rust, C++, Haskell, Clojure and Python but I also have some familiarity with Elixir, Scala, Kotlin and Java.
+My interests in mathematics and technology are varied, including but not limited to:
 
-## Interests:
+### Mathematics :
+- Functional Analysis.
+- Type Theory.
+- Category Theory.
+- Cryptography.
+- Numerical Analysis.
+- Applied Mathematics in general.
 
+### Tech :
 - Computer Graphics and Vision.
 - Deep Learning.
-- Audio and Image Processing (i.e Signal Processing).
-- Theory of Computation.
-- Cryptography.
-- Abstract Algebra and Category Theory.
+- Data Science.
+- Audio and Image Processing.
+- Computational Fluid Dynamics.
+- Compilers.
 
-...and many others.
+## Tools and Languages :
+<div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Snek" alt="Python" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/clojure/clojure-original.svg" title="Clojure" alt="Clojure" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="SQL" width="40" height="40"/>&nbsp;
+</div>
+
 
 ## Stats just for fun:
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bvrner)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvrner&layout=compact&theme=radical&exclude_repo=data-structures-c,linear-rs,rust-snek,bvrner.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bvrner&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
