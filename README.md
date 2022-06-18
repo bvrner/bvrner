@@ -34,6 +34,6 @@ My interests in mathematics and technology are varied, including but not limited
 
 
 ## Stats just for fun:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvrner&layout=compact&theme=radical&exclude_repo=data-structures-c,linear-rs,rust-snek,bvrner.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bvrner&layout=compact&theme=radical&exclude_repo=data-structures-c,linear-rs,rust-snek,bvrner.github.io&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bvrner&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
