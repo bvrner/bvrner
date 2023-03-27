@@ -6,7 +6,7 @@ I'm currently researching topics in Functional Analysis and Differential Equatio
 My interests in mathematics and technology are varied, particularly I enjoy topics in Mathematical Analysis, Applied Mathematics and Computer Graphics, but I'm also somewhat of a Programming Languages and Type Theory enthusiast.
 Give me a language with a good strong typing system and I'll be happy. 
 
-In general by interests include, but aren't limited to
+In general by interests include, but aren't limited to:
 
 ### Mathematics :
 - Functional Analysis.
