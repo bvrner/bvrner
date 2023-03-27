@@ -1,18 +1,22 @@
 ## About Me :
 
-Mathematics undergraduate student at UnB (Universidade de Brasília) that enjoys coding sometimes. Always trying to learn new stuff, most of what I write I do out of curiosity or interest about how something could be implemented and whether or not I would be able to achieve it. 
+Just a Mathematics undergraduate student at UnB (Universidade de Brasília) that likes to code stuff sometimes.
+I'm currently researching topics in Functional Analysis and Differential Equations. When it comes to programming most of what I write I do out of curiosity or interest about how something could be implemented and whether or not I would be able to achieve it. 
 
-My interests in mathematics and technology are varied, including but not limited to:
+My interests in mathematics and technology are varied, particularly I enjoy topics in Mathematical Analysis, Applied Mathematics and Computer Graphics, but I'm also somewhat of a Programming Languages and Type Theory enthusiast.
+Give me a language with a good strong typing system and I'll be happy. 
+
+In general by interests include, but aren't limited to
 
 ### Mathematics :
 - Functional Analysis.
-- Type Theory.
+- Differential Equations.
 - Category Theory.
 - Cryptography.
-- Numerical Analysis.
+- Fluid Dynamics.
 - Applied Mathematics in general.
 
-### Tech :
+### Technology :
 - Computer Graphics and Vision.
 - Deep Learning.
 - Data Science.
