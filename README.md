@@ -9,10 +9,9 @@ Give me a language with a good strong typing system and I'll be happy.
 In general by interests include, but aren't limited to:
 
 ### Mathematics :
-- Functional Analysis.
+- Differential Geometry.
+- Dynamical Systems and Chaos.
 - Differential Equations.
-- Category Theory.
-- Cryptography.
 - Fluid Dynamics.
 - Applied Mathematics in general.
 
